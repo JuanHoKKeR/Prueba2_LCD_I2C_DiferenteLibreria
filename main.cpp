@@ -8,7 +8,7 @@
 #define DISPLAY_D6_pin PB_3 //D3
 #define DISPLAY_D7_pin PA_10 //D2
 
-const uint8_t upArrow[8] = {
+const uint8_t upArrow[8] = { //hola
     0b00100,
     0b01010,
     0b10001,
